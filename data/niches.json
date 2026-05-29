@@ -1,22 +1,22 @@
 {
     "domain": "watches.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "스마트워치",
+        "오토매틱 시계",
+        "시계 용품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang watches items."
+        "스마트워치": {
+            "topic": "Smartwatches, fitness trackers, watch bands.",
+            "role": "Smart wearable expert."
         },
-        "수유/이유식": {
-            "topic": "watches bottle sterilizers, watches food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "오토매틱 시계": {
+            "topic": "Automatic watches, mechanical watches.",
+            "role": "Classic watch reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "시계 용품": {
+            "topic": "Watch winders, watch boxes, repair tools.",
+            "role": "Watch accessory guide."
         }
     }
 }
