@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://watches.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick watches'
+title = 'GGG Pick 시계'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick watches'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'watches 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '스마트워치, 오토매틱 시계, 시계 용품 등 패션의 완성 시계 및 워치 악세서리 쿠팡 로켓배송 특가 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick watches'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick watches"
+  sitename = "GGG Pick 시계"
   siteurl = "https://watches.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
